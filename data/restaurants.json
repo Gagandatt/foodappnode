@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Pizza Paradise",
+        "email": "bistro@example.com",
+        "password": "bistro",
+        "cuisine": "Italian",
+        "address": "789 Pine St, Villageland",
+        "image": "https://source.unsplash.com/300x200/?food,italian",
+        "menu": [
+            {
+                "name": "Classic Burger",
+                "price": 10.99,
+                "image": "https://source.unsplash.com/50x50/?burger"
+            },
+            {
+                "name": "Grilled Chicken Sandwich",
+                "price": 8.99,
+                "image": "https://source.unsplash.com/50x50/?sandwich"
+            },
+            {
+                "name": "Vegetarian Pizza",
+                "price": 12.50,
+                "image": "https://source.unsplash.com/50x50/?pizza"
+            }
+        ]
+    },
+    {
+        "name": "Taco Haven",
+        "email": "taco@example.com",
+        "password": "taco",
+        "cuisine": "Mexican",
+        "address": "456 Oak St, Townsville",
+        "image": "https://source.unsplash.com/300x200/?food,mexican",
+        "menu": [
+            {
+                "name": "Taco Supreme",
+                "price": 9.99,
+                "image": "https://source.unsplash.com/50x50/?taco"
+            },
+            {
+                "name": "Burrito Bowl",
+                "price": 7.99,
+                "image": "https://source.unsplash.com/50x50/?burrito"
+            },
+            {
+                "name": "Quesadilla",
+                "price": 8.50,
+                "image": "https://source.unsplash.com/50x50/?quesadilla"
+            }
+        ]
+    },
+    {
+        "name": "Sushi Delight",
+        "email": "sushi@example.com",
+        "password": "sushi",
+        "cuisine": "Japanese",
+        "address": "789 Pine St, Villageland",
+        "image": "https://source.unsplash.com/300x200/?food,japanese",
+        "menu": [
+            {
+                "name": "Sashimi Platter",
+                "price": 15.99,
+                "image": "https://source.unsplash.com/50x50/?sashimi"
+            },
+            {
+                "name": "California Roll",
+                "price": 12.99,
+                "image": "https://source.unsplash.com/50x50/?sushi"
+            },
+            {
+                "name": "Miso Soup",
+                "price": 4.50,
+                "image": "https://source.unsplash.com/50x50/?miso"
+            }
+        ]
+    },
+    {
+        "name": "Curry House",
+        "email": "curry@example.com",
+        "password": "curry",
+        "cuisine": "Indian",
+        "address": "101 Cedar St, Hamletville",
+        "image": "https://source.unsplash.com/300x200/?food,indian",
+        "menu": [
+            {
+                "name": "Chicken Curry",
+                "price": 11.99,
+                "image": "https://source.unsplash.com/50x50/?curry"
+            },
+            {
+                "name": "Vegetable Biryani",
+                "price": 10.50,
+                "image": "https://source.unsplash.com/50x50/?biryani"
+            },
+            {
+                "name": "Naan Bread",
+                "price": 2.99,
+                "image": "https://source.unsplash.com/50x50/?naan"
+            }
+        ]
+    },
+    {
+        "name": "Wok Express",
+        "email": "wok@example.com",
+        "password": "wok",
+        "cuisine": "Chinese",
+        "address": "222 Birch St, Hilltop",
+        "image": "https://source.unsplash.com/300x200/?food,chinese",
+        "menu": [
+            {
+                "name": "Sweet and Sour Chicken",
+                "price": 12.99,
+                "image": "https://source.unsplash.com/50x50/?sweet-sour"
+            },
+            {
+                "name": "Beef and Broccoli",
+                "price": 14.50,
+                "image": "https://source.unsplash.com/50x50/?beef-broccoli"
+            },
+            {
+                "name": "Vegetable Spring Rolls",
+                "price": 5.99,
+                "image": "https://source.unsplash.com/50x50/?spring-rolls"
+            }
+        ]
+    }
+]

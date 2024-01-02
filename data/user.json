@@ -1,0 +1,20 @@
+[
+    {
+        "username": "john_doe",
+        "email": "john@example.com",
+        "password": "hashed_password_here",
+        "address": "123 Oak St, Cityville"
+    },
+    {
+        "username": "jane_smith",
+        "email": "jane@example.com",
+        "password": "hashed_password_here",
+        "address": "456 Pine St, Townsville"
+    },
+    {
+        "username": "bob_jones",
+        "email": "bob@example.com",
+        "password": "hashed_password_here",
+        "address": "789 Maple St, Villageland"
+    }
+]

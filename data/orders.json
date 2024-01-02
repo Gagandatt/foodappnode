@@ -1,0 +1,53 @@
+[
+    {
+        "orderId": "60a1c81c0a44273123456987",
+        "userId": "60a1c81c0a44273123456789",
+        "restaurantId": "60a1c81c0a4427312345678c",
+        "items": [
+            {
+                "menuItemId": "60a1c81c0a4427312345678d",
+                "quantity": 3
+            },
+            {
+                "menuItemId": "60a1c81c0a44273123456789",
+                "quantity": 1
+            }
+        ],
+        "totalAmount": 35.99,
+        "status": "Pending"
+    },
+    {
+        "orderId": "60a1c81c0a44273123456654",
+        "userId": "60a1c81c0a44273123456781",
+        "restaurantId": "60a1c81c0a4427312345678b",
+        "items": [
+            {
+                "menuItemId": "60a1c81c0a44273123456787",
+                "quantity": 1
+            },
+            {
+                "menuItemId": "60a1c81c0a44273123456798",
+                "quantity": 3
+            }
+        ],
+        "totalAmount": 48.50,
+        "status": "In Progress"
+    },
+    {
+        "orderId": "60a1c81c0a44273123456732",
+        "userId": "60a1c81c0a44273123456783",
+        "restaurantId": "60a1c81c0a4427312345678a",
+        "items": [
+            {
+                "menuItemId": "60a1c81c0a44273123456786",
+                "quantity": 1
+            },
+            {
+                "menuItemId": "60a1c81c0a44273123456879",
+                "quantity": 2
+            }
+        ],
+        "totalAmount": 22.75,
+        "status": "Delivered"
+    }
+]
